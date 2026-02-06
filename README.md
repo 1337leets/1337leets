@@ -1,7 +1,44 @@
-- 👋 Hi, I’m @1337leets
-- 👀 I’m interested in Cybersecurity, Operating Systems, Microprocessors, Simulation and Modding.
-- 🌱 I’m currently learning Assembly programming.
-- 💞️ I’m looking to collaborate on more complicated projects.
-- 📫 How to reach me: My discord name is nikolai_andrew.
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I like to make mods for Counter Strike 1.6 and Half Life.
+## Hi, I'm Andrew 👋
+
+I'm an Electrical Engineering student with a strong interest in **systems engineering**,  
+**low-level programming**, and **simulation-driven problem solving**.
+
+My work mostly revolves around understanding how systems behave at a fundamental level —
+from operating systems and microprocessors to control, power, and networked systems.
+
+---
+
+### 🔧 Technical Interests
+- Low-level programming (x86 Assembly, C/C++)
+- Operating Systems & Microprocessors
+- Control systems & real-time simulation
+- Cybersecurity & network reconnaissance
+- Game and engine modding as a systems playground
+
+---
+
+### 🧪 Projects & Work
+Some of the things you’ll find here:
+- **BareScan** — minimal, low-noise service fingerprinting tool (Python)
+- **x86 Assembly Blackjack** — text-based Blackjack game written in NASM for Linux
+- **CS 1.6 AMX Mod X Plugins** — gameplay and mechanic modifications
+- **Windows system sound restoration** via PowerShell
+- Game mods and prototypes developed during game jams (via organization contributions)
+
+Most projects are built to explore **how things work under the hood**,  
+not just to ship features.
+
+---
+
+### 🎓 Background
+- Electrical Engineering student  
+- Experience with MATLAB, Simulink, OPAL-RT, embedded systems, and system modeling  
+- Interested in research-oriented engineering roles and applied systems work
+
+---
+
+### 📌 Notes
+- I prefer clean, minimal designs over over-engineered solutions  
+- Many projects start as experiments and evolve into tools
+
+You can find my ongoing and experimental work across the repositories below.
