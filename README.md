@@ -1,4 +1,4 @@
-## Hi, I'm Andrew 👋
+## Hi, I'm Erhan 👋
 
 I'm an Electrical Engineering student with a strong interest in **systems engineering**,  
 **low-level programming**, and **simulation-driven problem solving**.
