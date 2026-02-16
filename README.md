@@ -21,7 +21,9 @@ from operating systems and microprocessors to control, power, and networked syst
 Some of the things you’ll find here:
 - **BareScan** — minimal, low-noise service fingerprinting tool (Python)
 - **x86 Assembly Blackjack** — text-based Blackjack game written in NASM for Linux
+- **C-Win32-Minesweeper-GUI** — Minesweeper game built directly on the Win32 API 
 - **CS 1.6 AMX Mod X Plugins** — gameplay and mechanic modifications
+- **Tasker profiles** and **bash shell scripts**
 - **Windows system sound restoration** via PowerShell
 - Game mods and prototypes developed during game jams (via organization contributions)
 
@@ -32,7 +34,7 @@ not just to ship features.
 
 ### 🎓 Background
 - Electrical Engineering student  
-- Experience with MATLAB, Simulink, OPAL-RT, embedded systems, and system modeling  
+- Experience with MATLAB, Simulink, Arduino, embedded systems, and system modeling  
 - Interested in research-oriented engineering roles and applied systems work
 
 ---
