@@ -33,7 +33,7 @@ not just to ship features.
 ---
 
 ### 🎓 Background
-- Electrical Engineering student  
+- Electrical Engineering student  at YTU
 - Experience with MATLAB, Simulink, Arduino, embedded systems, and system modeling  
 - Interested in research-oriented engineering roles and applied systems work
 
