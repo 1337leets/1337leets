@@ -1,4 +1,4 @@
-## Hi, I'm Samet Erhan (Nikolai Andrew is my alias) 👋
+## Hi, I'm Erhan (Nikolai Andrew is my alias) 👋
 
 I'm an Electrical Engineering student with a strong interest in **systems engineering**,  
 **low-level programming**, and **simulation-driven problem solving**.
